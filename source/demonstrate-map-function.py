@@ -1,5 +1,7 @@
 """Demonstrate the use of the map higher-order function."""
 
+# TODO: Refer to the course slides for more details about these functions
+
 def square(value):
     """Compute the square of a provided number."""
     # TODO: compute the square of the provided number and return it
@@ -10,6 +12,7 @@ def map(f, sequence):
     # TODO: apply the function f to the sequence of values and return
     # the result of the overall computation
     # TODO: note that this should work for any type of function f
+    # TODO: return the result of this computation
 
 
 # create a list of values and then square them using map
