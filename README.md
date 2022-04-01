@@ -1,7 +1,7 @@
 # Higher-Order Functions
 
-## Assigned: Wednesday, October 13, 2021
-## Due: Friday, October 15, 2021
+## Assigned: Friday, April 1, 2022
+## Due: Friday, April 8, 2022
 
 After cloning this repository to your computer, please take the following steps:
 
