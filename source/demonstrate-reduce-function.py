@@ -2,16 +2,18 @@
 
 # TODO: Refer to the course slides for more details about these functions
 
+# TODO: Add type annotations to describe the input and output of this function
 def plus(number_one, number_two):
     """Add the two numbers together and return them."""
     # TODO: add the two numbers together and return them
 
-
+# TODO: Add type annotations to describe the input and output of this function
 def multiply(number_one, number_two):
     """Multiply the two numbers together and return them."""
     # TODO: multiply the two numbers together and return them
 
 
+# TODO: Add type annotations to describe the input and output of this function
 def reduce(f, sequence, initial):
     """Starting at the value of initial, apply f to the sequence of values."""
     # TODO: start the result of the computation at the initial value
