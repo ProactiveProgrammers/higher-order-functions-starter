@@ -2,11 +2,13 @@
 
 # TODO: Refer to the course slides for more details about these functions
 
+# TODO: Add type annotations to describe the input and output of this function
 def square(value):
     """Compute the square of a provided number."""
     # TODO: compute the square of the provided number and return it
 
 
+# TODO: Add type annotations to describe the input and output of this function
 def map(f, sequence):
     """Apply the function f to the sequence of values."""
     # TODO: apply the function f to the sequence of values and return
