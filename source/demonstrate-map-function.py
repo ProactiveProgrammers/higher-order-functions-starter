@@ -13,7 +13,7 @@ def map(f, sequence):
     """Apply the function f to the sequence of values."""
     # TODO: apply the function f to the sequence of values and return
     # the result of the overall computation
-    # TODO: note that this should work for any type of function f
+    # TODO: note that this should work for any type of callable function f
     # TODO: return the result of this computation
 
 
