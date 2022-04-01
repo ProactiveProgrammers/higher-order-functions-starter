@@ -20,7 +20,7 @@ def reduce(f, sequence, initial):
     result = initial
     # TODO: apply the function f to the values in the sequence, continuing
     # to use the values that are return from the function
-    # TODO: note that this should work for any type of function f
+    # TODO: note that this should work for any type of callable function f
     # TODO: return the result of this computation
 
 
