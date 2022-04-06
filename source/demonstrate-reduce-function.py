@@ -30,5 +30,5 @@ numbers = [1, 2, 3, 4, 5]
 # TODO: add all of the numbers together using a reduce function call
 # TODO: display the result of the computation, indented by three spaces
 
-# TODO: add all of the numbers together using a reduce function call
+# TODO: multiply all of the numbers together using a reduce function call
 # TODO: display the result of the computation, indented by three spaces
