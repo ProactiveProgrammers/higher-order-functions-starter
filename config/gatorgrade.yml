@@ -1,20 +1,20 @@
 # --> check the Python program
 - source/demonstrate-map-function.py:
-  - description: Ensure that the perform-ordered-pair-swap.py file exists in the source directory
+  - description: Ensure that the demonstrate-map-function.py file exists in the source directory
     check: ConfirmFileExists
-  - description: Complete all TODOs, remove the TODO markers in the perform-ordered-pair-swap.py
+  - description: Complete all TODOs, remove the TODO markers in the demonstrate-map-function.py
     check: MatchFileFragment
     options:
       fragment: TODO
       count: 0
       exact: true
-  - description: Create a sufficient number of docstring (i.e., multiple-line) comments in the perform-ordered-pair-swap.py
+  - description: Create a sufficient number of docstring (i.e., multiple-line) comments in the demonstrate-map-function.py
     check: CountMultipleLineComments
     options:
       language: "Python"
       count: 3
       exact: false
-  - description: Create a sufficient number of single-line comments in the perform-ordered-pair-swap.py
+  - description: Create a sufficient number of single-line comments in the demonstrate-map-function.py
     check: CountSingleLineComments
     options:
       language: "Python"
@@ -22,22 +22,22 @@
       exact: false
 
 # --> check the Python program
-- source/demonstrate-map-function.py:
-  - description: Ensure that the perform-ordered-pair-swap.py file exists in the source directory
+- source/demonstrate-reduce-function.py:
+  - description: Ensure that the demonstrate-reduce-function.py file exists in the source directory
     check: ConfirmFileExists
-  - description: Complete all TODOs, remove the TODO markers in the perform-ordered-pair-swap.py
+  - description: Complete all TODOs, remove the TODO markers in the demonstrate-map-function.py
     check: MatchFileFragment
     options:
       fragment: TODO
       count: 0
       exact: true
-  - description: Create a sufficient number of docstring (i.e., multiple-line) comments in the perform-ordered-pair-swap.py
+  - description: Create a sufficient number of docstring (i.e., multiple-line) comments in the demonstrate-reduce-function.py
     check: CountMultipleLineComments
     options:
       language: "Python"
       count: 3
       exact: false
-  - description: Create a sufficient number of single-line comments in the perform-ordered-pair-swap.py
+  - description: Create a sufficient number of single-line comments in the demonstrate-reduce-function.py
     check: CountSingleLineComments
     options:
       language: "Python"
