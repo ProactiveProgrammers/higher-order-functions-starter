@@ -25,7 +25,7 @@
 - source/demonstrate-reduce-function.py:
   - description: Ensure that the demonstrate-reduce-function.py file exists in the source directory
     check: ConfirmFileExists
-  - description: Complete all TODOs, remove the TODO markers in the demonstrate-map-function.py
+  - description: Complete all TODOs, remove the TODO markers in the demonstrate-reduce-function.py
     check: MatchFileFragment
     options:
       fragment: TODO
