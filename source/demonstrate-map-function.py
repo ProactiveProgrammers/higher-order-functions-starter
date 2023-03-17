@@ -28,4 +28,3 @@ squared = map(square, values)
 squared_range = map(square, range(10))
 # TODO: display the output of the squaring computation
 # TODO: display the result of the computation, indented by three spaces
-print("   " + str(squared_range))
